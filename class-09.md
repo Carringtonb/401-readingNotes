@@ -19,3 +19,35 @@
 * Forcing Immediate Execution
 
     * These execute without an explicit foreach statement because the query itself must use foreach in order to return a result. Note also that these types of queries return a single value, not an IEnumerable collection.
+
+    ## Collections
+
+*  A collection is a class, so you must declare an instance of the class before you can add elements to that collection. If your collection contains elements of only one data type, you can use one of the classes in the System. Collections. Generic namespace.
+
+* A generic collection enforces type safety so that no other data type can be added to it. When you retrieve an element from a generic collection, you do not have to determine its data type or convert it.
+
+* Whenever possible, you should use the generic collections in the System. Collections namespace.
+
+* The System. Specialized namespace provides specialized and strongly typed collection classes, such as string-only collections and linked-list and hybrid dictionaries.
+
+* The Dictionary generic collection enables you to access to elements in a collection by using the key of each element. The following example creates a Dictionary collection and iterates through the dictionary by using a foreach statement.
+
+* An iterator is used to perform a custom iteration over a collection. An iterator can be a method or a get accessor. An iterator uses a yield return statement to return each element of the collection one at a time.
+
+* You call an iterator by using a foreach statement. Each iteration of the foreach loop calls the iterator. When a yield return statement is reached in the iterator, an expression is returned, and the current location in code is retained. Execution is restarted from that location the next time that the iterator is called.
+
+## ENUMS 
+
+* You can explicitly specify any other integral numeric type as an underlying type of an enumeration type.
+
+* The default value of an enumeration type E is the value produced by expression 0, even if zero doesn't have the corresponding enum member.
+
+*Enumeration types as bit flags*
+
+* If you want an enumeration type to represent a combination of choices, define enum members for those choices such that an individual choice is a bit field. That is, the associated values of those enum members should be the powers of two.
+
+`Days meetingDays = Days. Monday | Days. Wednesday | Days. Thursday | Days.`
+
+* Enum API reference page. Enum type is the abstract base class of all enumeration types. It provides a number of methods to get information about an enumeration type and its values. Enum in a base class constraint to specify that a type parameter is an enumeration type.
+
+* If you cast an enum value to its underlying type, the result is the associated integral value of an enum member.
