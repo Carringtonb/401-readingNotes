@@ -47,3 +47,21 @@
 ### Reading 15
 
   [reading15](class-15.md)
+### Reading 16
+
+  [reading16](class-16.md)
+### Reading 17
+
+  [reading17](class-17.md)
+### Reading 18
+
+  [reading18](class-18.md)
+### Reading 19
+
+  [reading19](class-19.md)
+### Reading 20
+
+  [reading20](class-20.md)
+### Reading 21
+
+  [reading21](class-21.md)
