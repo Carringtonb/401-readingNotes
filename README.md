@@ -56,12 +56,12 @@
 ### Reading 18
 
   [reading18](class-18.md)
-### Reading 19
+### Reading 26
 
-  [reading19](class-19.md)
-### Reading 20
+  [reading26](class-26.md)
+### Reading 27
 
-  [reading20](class-20.md)
-### Reading 21
+  [reading27](class-27.md)
+### Reading 28
 
-  [reading21](class-21.md)
+  [reading28](class-28.md)
