@@ -65,3 +65,15 @@
 ### Reading 28
 
   [reading28](class-28.md)
+  ### Reading 29
+
+  [reading29](class-29.md)
+  ### Reading 30
+
+  [reading30](class-30.md)
+  ### Reading 31
+
+  [reading31](class-31.md)
+  ### Reading 32
+
+  [reading32](class-32.md)
