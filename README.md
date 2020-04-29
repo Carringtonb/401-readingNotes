@@ -77,3 +77,6 @@
   ### Reading 32
 
   [reading32](class-32.md)
+  ### Reading 33
+  
+  [reading33](class-33.md)
