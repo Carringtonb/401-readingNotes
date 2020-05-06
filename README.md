@@ -80,3 +80,12 @@
   ### Reading 33
   
   [reading33](class-33.md)
+  ## Reading 34
+
+  [reading34](class-34.md)
+  ## Reading 35
+
+  [reading35](class-35.md)
+  ## Reading 38
+
+  [reading38](class-38.md)
