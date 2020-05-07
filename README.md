@@ -86,6 +86,9 @@
   ## Reading 35
 
   [reading35](class-35.md)
+  ## Reading 37
+  
+  [reading37](class-37.md)
   ## Reading 38
 
   [reading38](class-38.md)
