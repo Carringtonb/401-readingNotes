@@ -95,3 +95,6 @@
 ## Reading 41
 
 [reading41](class-41.md)
+## Reading 42
+
+[reading42](class-42.md)
